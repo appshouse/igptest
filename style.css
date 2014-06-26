@@ -1,0 +1,24 @@
+body
+{
+    height: 2500px;
+}
+
+td, th 
+{
+  border: 1px solid #999;
+  padding: 1rem;
+}
+
+table 
+{
+  border-collapse: collapse;
+}
+
+.selector
+{
+    width: 1px;
+    height: 1px;
+    position: absolute;
+    border: 1px solid #22aaaa;
+    background-color: rgba(34, 170, 170, 0.3);
+}
